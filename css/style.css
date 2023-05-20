@@ -1,0 +1,51 @@
+*{
+    text-align: center;
+    
+}
+h2{
+color: rgb(0, 0, 0); 
+border: 3px solid rgb(200, 122, 122);
+border-radius: 8px;
+background-color: rgb(201, 238, 240);
+box-shadow: 3px 3px 5px silver;
+}
+.first{
+    background-color: bisque;
+    color: rgb(214, 13, 13);
+}
+.kutu{
+    background-color: blue;
+    width: 150px;
+    height: 200px;
+}
+.kutu1{
+    background-color: aqua;
+    width: 200px;
+    height: 300px;
+    border-radius: 5px;
+}
+.kutu{
+width: 100px;
+height: 100px;
+}
+.kutu1{
+    background-color: aqua;
+}
+.kutu2{
+    flex: 2;
+    background-color: black;
+}
+.kutu3{
+    flex: 2;
+    background-color: blueviolet;
+}
+.kutu4{
+    background-color: brown;
+}
+.new{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+}
